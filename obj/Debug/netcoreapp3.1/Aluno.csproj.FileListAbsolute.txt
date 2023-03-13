@@ -1,0 +1,13 @@
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.csprojAssemblyReference.cache
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.AssemblyInfoInputs.cache
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.AssemblyInfo.cs
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.csproj.CoreCompileInputs.cache
+C:\dev\Aluno\bin\Debug\netcoreapp3.1\Aluno.exe
+C:\dev\Aluno\bin\Debug\netcoreapp3.1\Aluno.deps.json
+C:\dev\Aluno\bin\Debug\netcoreapp3.1\Aluno.runtimeconfig.json
+C:\dev\Aluno\bin\Debug\netcoreapp3.1\Aluno.runtimeconfig.dev.json
+C:\dev\Aluno\bin\Debug\netcoreapp3.1\Aluno.dll
+C:\dev\Aluno\bin\Debug\netcoreapp3.1\Aluno.pdb
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.dll
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.pdb
+C:\dev\Aluno\obj\Debug\netcoreapp3.1\Aluno.genruntimeconfig.cache
